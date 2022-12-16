@@ -1,4 +1,4 @@
-# CV >>  https://bkabhi.github.io/CV/
+# CV >>  https://bkabhi.github.io/CV-learning/
 
 | First Header  | Second Header |
 | ------------- | ------------- |
